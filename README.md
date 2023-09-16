@@ -15,5 +15,5 @@ The dataset is organized into three main folders:
 3. **Validation Data:** Similar to the testing data, this folder contains 10 images per food item, categorized by food type.
 
 This dataset is intended for training and evaluating machine learning models, particularly for tasks related to food recognition or object detection within the domain of fruits and vegetables.
-I have VGG16,model for classification and YOLO for object detection , then using prompt engineering made a Foodgpt, where after classification and detection , one can get information of food's calories,nutrition and reciepsps.
+I have VGG16,model for classification and YOLO for object detection , then using prompt engineering made a Foodgpt, where after classification and detection , one can get information of food's calories,nutrition and recipes.
 
